@@ -1,0 +1,21 @@
+/home/holland/museum/location/platforms/android/bin/classes.dex : \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/HelloWorld.class \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/R.class \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/R$attr.class \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/R$drawable.class \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/BuildConfig.class \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/R$xml.class \
+/home/holland/museum/location/platforms/android/bin/classes/com/phonegap/helloworld/R$string.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/media/AudioHandler.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/media/FileHelper.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/media/AudioPlayer$STATE.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/media/AudioPlayer$1.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/media/AudioPlayer.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/media/AudioPlayer$MODE.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/device/Device.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/geolocation/CordovaLocationListener$LocationTimeoutTask.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/geolocation/GeoBroker.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/geolocation/CordovaLocationListener.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/geolocation/NetworkListener.class \
+/home/holland/museum/location/platforms/android/bin/classes/org/apache/cordova/geolocation/GPSListener.class \
+/home/holland/museum/location/platforms/android/bin/dexedLibs/cordova-3.1.0-a3f9db2674bb6c981fb9c9e58f55b76a.jar \
